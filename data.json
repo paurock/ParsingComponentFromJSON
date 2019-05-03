@@ -1,0 +1,11 @@
+{
+  "components": [
+    { "name": "Home", "props": ["name", "surname"], "content": "Hello World!" },
+
+    {
+      "name": "Whoops404",
+      "props": ["prop1", "prop2"],
+      "content": "Theres nothing"
+    }
+  ]
+}

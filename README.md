@@ -1,2 +1,0 @@
-# ParsingComponentFromJSON
-Created with CodeSandbox
